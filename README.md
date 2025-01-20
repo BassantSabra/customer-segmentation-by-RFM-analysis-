@@ -22,7 +22,7 @@
 ---
 
 
-### **2. Remove Products with Unit Price equal zero **
+### **2. Remove Products with Unit Price equal zero**
 - **Objective**: Eliminate invalid transactions where products are listed with a unit price of zero.
 - **Steps**:
   - Filter the dataset to find rows where `UnitPrice = 0`.
@@ -43,6 +43,10 @@
 
 - By scoring our customers using  RFM analysis ( recency , frequency , monetary), we can identify our 4 major segments for targeting
 
+  
+![Screenshot 2025-01-20 210801](https://github.com/user-attachments/assets/f63d4b87-a8f8-4169-acac-127026504da8)
+
+
 ## **1. Top Customer Segment**
 - Percentage: 18% of customers fall into this segment.
 - Average Spend: These top customers have spent an average of $7,000 in the last 15 days, indicating they are highly engaged and valuable to the business.
@@ -56,7 +60,7 @@
 - Percentage: 20.9% of customers are classified as lost.
 - Average Spend: Lost customers spent an average of $179, highlighting a potential revenue loss.
 
-## **recommendations **
+## **recommendations**
 - We must create a target campaign to re-engage our At-risk customers and lost customers using personalized email or SMS to offer discounts, limited-time offers to draw them back.
 
 - Use purchase history to recommend products they may find appealing.
