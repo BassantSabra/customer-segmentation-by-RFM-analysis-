@@ -35,7 +35,7 @@
   - According to your description, approximately 135,000 records fall into this category.
   - Removing these rows will reduce noise and ensure analysis is based on real customer data.
   - 
-### **4. using pivot tables **
+### **4. using pivot tables**
 - **Objective**: get insights about revenue and most important purchased products
 
 
