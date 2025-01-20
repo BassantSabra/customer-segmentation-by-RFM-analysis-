@@ -44,7 +44,8 @@
 - By scoring our customers using  RFM analysis ( recency , frequency , monetary), we can identify our 4 major segments for targeting
 
   
-![Screenshot 2025-01-20 210801](https://github.com/user-attachments/assets/f63d4b87-a8f8-4169-acac-127026504da8)
+![Screenshot 2025-01-20 212109](https://github.com/user-attachments/assets/085fcc5e-4fd3-447d-9593-37f4cfb12225)
+
 
 
 ## **1. Top Customer Segment**
