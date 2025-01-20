@@ -2,7 +2,7 @@
 ## **project overview**
 
 - This README provides a step-by-step guide for cleaning and transforming the Excel dataset. The aim is to prepare the data for RFM analysis for customer segmentation 
----
+
 
 ## **Steps for Data Cleaning**
 
