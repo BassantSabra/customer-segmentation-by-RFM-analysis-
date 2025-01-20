@@ -19,8 +19,6 @@
   - `CustomerID`
   - `Country`
 
----
-
 
 ### **2. Remove Products with Unit Price equal zero**
 - **Objective**: Eliminate invalid transactions where products are listed with a unit price of zero.
