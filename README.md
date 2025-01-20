@@ -35,7 +35,7 @@
   - According to your description, approximately 135,000 records fall into this category.
   - Removing these rows will reduce noise and ensure analysis is based on real customer data.
 
----
+
 
 ## **Steps for RFM analysis and insights**
 
